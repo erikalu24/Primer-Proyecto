@@ -1,3 +1,2 @@
-# Primer-Proyecto
-Curso Evol. y Conf. de Software
-Primer cambio.
+# primerproyecto
+Primero proyecto a realizar!
